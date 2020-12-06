@@ -2,3 +2,10 @@ Gemfile
 Gemfile.lock
 vscode.workspace.code-workspace
 cv.tex
+cv-old.pdf
+cv.aux
+cv.fdb_latexmk
+cv.synctex.gz
+cv.fls
+cv.out
+cv.log
