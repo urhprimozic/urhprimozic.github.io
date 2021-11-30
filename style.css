@@ -1,0 +1,28 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #3a3a3a;
+    text-align: center;
+    padding: 14px 16px;
+    padding-left: 5px;
+    text-decoration: none;
+    font-size: 19px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    color: rgb(0, 0, 0);
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    text-decoration: underline;
+  }
