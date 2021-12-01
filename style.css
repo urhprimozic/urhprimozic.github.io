@@ -26,3 +26,11 @@ body {
   .topnav a.active {
     text-decoration: underline;
   }
+
+  a {
+    text-decoration: dotted;
+    color: darkblue;
+  }
+  a:hover {
+    color:black;
+  }
